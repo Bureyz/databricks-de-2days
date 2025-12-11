@@ -6,3 +6,5 @@ __pycache__/
 *.log
 scripts/
 
+NOTEBOOK_TEMPLATE.md
+notebooks/TRAINING_PLAN.md
